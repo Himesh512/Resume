@@ -4,8 +4,8 @@
 
 **Phone: +91-9824241400**
 
-**LinkedIn : https://www.linkedin.com/in/himesh-aadeshara-0295b89a
-**
+LinkedIn : https://www.linkedin.com/in/himesh-aadeshara-0295b89a
+
 Summary:
 --------------
 Experienced Front-End Developer with over 8 years of expertise in creating efficient and user-friendly web applications. Proficient in HTML, JSP, JSON, CSS, and Sass, as well as skilled in Node.js with Electron framework and SQLite3 for desktop application development. Extensive experience in Angular (2/4/8/10), TypeScript, JavaScript, jQuery, and Bootstrap. Adept at version control using Git and SVN, integrating plugins like Highcharts.js and Select2, and handling cross-browser compatibility issues. Familiar with HubSpot-related web pages and websites. Strong communication, development, and analytical skills with a motivation for professional and personal growth.
